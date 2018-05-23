@@ -1,0 +1,9 @@
+{
+  "sender_name": "Andream",
+  "sender_email": "xxxxxxxxx@qq.com",
+  "sender_auth": "xxxxxxxxxxxxxxxx",
+  "email_subject": "Codeforces Rating Up Up!",
+
+  "check_period": 60000,
+  "headless": false
+}
