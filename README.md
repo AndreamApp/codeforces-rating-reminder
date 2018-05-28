@@ -6,7 +6,7 @@ Watching your codeforces rating change.
 
 ![Example](https://github.com/AndreamApp/codeforces-rating-reminder/raw/master/screenshots/example.jpg)
 
-## Get started
+## Installation
 
 ```shell
 git clone "https://github.com/AndreamApp/codeforces-rating-reminder.git"
@@ -34,7 +34,7 @@ vim options.json
 设置需要提醒的Codeforces用户，每个用户的rating变化后会发送到对应的邮箱。
 
 ```shell
-vim reminder.json
+vim remind_list.json
 {
   "list": [
     {
